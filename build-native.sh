@@ -1,0 +1,2 @@
+#!/bin/bash
+native-image -jar ./target/native-mistralai-0.30.0-jar-with-dependencies.jar -o ./target/native-mistral-ai -H:ConfigurationFileDirectories=./resources/META-INF/native-image -H:+AllowDeprecatedBuilderClassesOnImageClasspath

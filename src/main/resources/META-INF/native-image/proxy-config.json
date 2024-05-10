@@ -1,0 +1,5 @@
+[
+  {
+    "interfaces":["dev.langchain4j.model.mistralai.MistralAiApi"]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "resources":{
+  "includes":[{
+    "pattern":"\\QMETA-INF/services/dev.langchain4j.model.mistralai.MistralAiClientBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/dev.langchain4j.model.mistralai.spi.MistralAiChatModelBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.lang.System$LoggerFinder\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.net.spi.InetAddressResolverProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.net.spi.URLStreamHandlerProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.time.zone.ZoneRulesProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.slf4j.spi.SLF4JServiceProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.tinylog.configuration.ConfigurationLoader\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.tinylog.provider.LoggingProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.tinylog.writers.Writer\\E"
+  }, {
+    "pattern":"\\Qtinylog-dev.properties\\E"
+  }, {
+    "pattern":"\\Qtinylog-test.properties\\E"
+  }, {
+    "pattern":"\\Qtinylog.properties\\E"
+  }, {
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt74b/nfc.nrm\\E"
+  }, {
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt74b/nfkc.nrm\\E"
+  }, {
+    "pattern":"java.base:\\Qjdk/internal/icu/impl/data/icudt74b/uprops.icu\\E"
+  }, {
+    "pattern":"java.base:\\Qsun/net/idn/uidna.spp\\E"
+  }]},
+  "bundles":[]
+}
